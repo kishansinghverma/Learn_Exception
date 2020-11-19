@@ -1,0 +1,11 @@
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.deps.json
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.runtimeconfig.json
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.dll
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.pdb
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.AssemblyInfo.cs
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.dll
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.pdb
+C:\Users\Training1\source\repos\Learn_Exception\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.csprojAssemblyReference.cache

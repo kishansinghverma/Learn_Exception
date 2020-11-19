@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmployeeId>101</EmployeeId>
+  <EmployeeName>Kishan</EmployeeName>
+  <EmployeeAddress>
+    <DoorNum>122</DoorNum>
+    <City>Agra</City>
+    <state>Uttar Pradesh</state>
+    <pinCode>282002</pinCode>
+  </EmployeeAddress>
+</Employee>

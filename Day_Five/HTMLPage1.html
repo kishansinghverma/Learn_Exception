@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+</body>
+<script>
+    let employeeData = [];
+    employeeData.push({ "name": "Kishan", "salary":1000});
+    employeeData.push({ "name": "Rajat", "salary":1500});
+    employeeData.push({ "name": "Sachin", "salary": 2000 });
+    document.write("Employee Data:<br>");
+    document.write(JSON.stringify(employeeData));
+
+    var address = { "doorNo": 5, "street": "Khandari X-ing", "city": "Agra", "state": "U.P.", "pin": 281307 };
+    employeeData[0].address=address;
+
+    document.write("<br>After adding address:<br>");
+    document.write(JSON.stringify(employeeData));
+
+    let hobies = ["Playing Cricket", "Listening Songs"];
+    employeeData[0].hobies = hobies;
+
+    document.write("<br>After adding Hobies:<br>");
+    document.write(JSON.stringify(employeeData));
+</script>
+</html>

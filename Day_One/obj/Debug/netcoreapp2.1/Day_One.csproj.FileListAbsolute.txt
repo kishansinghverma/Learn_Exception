@@ -1,0 +1,11 @@
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\bin\Debug\netcoreapp2.1\Day_One.deps.json
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\bin\Debug\netcoreapp2.1\Day_One.runtimeconfig.json
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\bin\Debug\netcoreapp2.1\Day_One.runtimeconfig.dev.json
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\bin\Debug\netcoreapp2.1\Day_One.dll
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\bin\Debug\netcoreapp2.1\Day_One.pdb
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\obj\Debug\netcoreapp2.1\Day_One.csprojAssemblyReference.cache
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\obj\Debug\netcoreapp2.1\Day_One.csproj.CoreCompileInputs.cache
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\obj\Debug\netcoreapp2.1\Day_One.AssemblyInfoInputs.cache
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\obj\Debug\netcoreapp2.1\Day_One.AssemblyInfo.cs
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\obj\Debug\netcoreapp2.1\Day_One.dll
+C:\Users\Training1\source\repos\Learn_Exception\Day_One\obj\Debug\netcoreapp2.1\Day_One.pdb

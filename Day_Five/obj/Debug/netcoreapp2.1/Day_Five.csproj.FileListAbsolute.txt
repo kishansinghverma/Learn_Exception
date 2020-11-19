@@ -1,0 +1,11 @@
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\obj\Debug\netcoreapp2.1\Day_Five.csprojAssemblyReference.cache
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\obj\Debug\netcoreapp2.1\Day_Five.csproj.CoreCompileInputs.cache
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\obj\Debug\netcoreapp2.1\Day_Five.AssemblyInfoInputs.cache
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\obj\Debug\netcoreapp2.1\Day_Five.AssemblyInfo.cs
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\bin\Debug\netcoreapp2.1\Day_Five.deps.json
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\bin\Debug\netcoreapp2.1\Day_Five.runtimeconfig.json
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\bin\Debug\netcoreapp2.1\Day_Five.runtimeconfig.dev.json
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\bin\Debug\netcoreapp2.1\Day_Five.dll
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\bin\Debug\netcoreapp2.1\Day_Five.pdb
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\obj\Debug\netcoreapp2.1\Day_Five.dll
+C:\Users\Training1\source\repos\Learn_Exception\Day_Five\obj\Debug\netcoreapp2.1\Day_Five.pdb
